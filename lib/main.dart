@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Name Your Price',
       theme: ThemeData(primaryColor: Colors.blue),
-      home: const HomePage(),
+      home: HomePage(),
     );
   }
 }
